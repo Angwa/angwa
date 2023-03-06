@@ -1,5 +1,6 @@
 ### Hello Amigo  👋
-*** I am a backend engineer, looking for opportunities to work with great teams
+*** Software Engineer with many years of professional experience who constantly seeks out innovative solutions to everyday problems. Focused on back-end engineering and building scalable APIs with PHP Laravel. Well-versed in OOP, MySQL, Git, Troubleshooting, Unit Testing, HTML, Bootstrap, and CSS.  
+Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. 
 
 <!--
 **Angwa/angwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
